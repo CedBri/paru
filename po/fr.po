@@ -180,7 +180,7 @@ msgstr "paquets introuvables dans l'AUR : "
 
 #: src/download.rs:94
 msgid "marked out of date: "
-msgstr "marqués comme non à jour : "
+msgstr "marqués comme périmé : "
 
 #: src/download.rs:105
 msgid "orphans: "
@@ -405,7 +405,7 @@ msgstr "Voulez-vous quand même essayer de les compiler ?"
 
 #: src/install.rs:662
 msgid "packages failed to build: {}"
-msgstr "la compilation des paquets suivants a échouée : {}"
+msgstr "la compilation des paquets suivants a échoué : {}"
 
 #: src/install.rs:698
 msgid "could not find .SRINFO for '{}'"
